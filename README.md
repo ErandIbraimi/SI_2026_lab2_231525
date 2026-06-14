@@ -9,11 +9,11 @@
 
 ### CFG за `searchBookByTitle`
 
-![CFG searchBookByTitle](images/searchBookByTitle_CFG.png)
+![CFG searchBookByTitle](images/searchBookByTitle.png)
 
 ### CFG за `borrowBook`
 
-![CFG borrowBook](images/borrowBook_CFG.png)
+![CFG borrowBook](images/borrowbookCFG.png)
 
 ---
 
