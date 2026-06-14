@@ -5,17 +5,13 @@
 
 ---
 
-## 1. Control Flow Graph
+### CFG за searchBookByTitle
 
-### CFG за `searchBookByTitle`
+![CFG searchBookByTitle](./searchBookByTitle.png)
 
-![CFG searchBookByTitle](images/searchBookByTitle.png)
+### CFG за borrowBook
 
-### CFG за `borrowBook`
-
-![CFG borrowBook](images/borrowbookCFG.png)
-
----
+![CFG borrowBook](./borrowbookCFG.png)
 
 ## 2. Цикломатска комплексност
 
